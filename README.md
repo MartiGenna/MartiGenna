@@ -1,5 +1,5 @@
 # Hi there 👋
-- 😄 I'm Martino, a rookie developer from Italy.
+- 😄 I'm Martino, a rookie developer from Italy
 - 📚 High School Student
 
 
